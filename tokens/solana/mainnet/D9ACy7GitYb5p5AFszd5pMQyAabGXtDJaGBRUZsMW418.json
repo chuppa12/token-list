@@ -5,5 +5,9 @@
   "name": "Wrapped Terracoin",
   "decimals": 9,
   "logoURI": "https://raw.githubusercontent.com/chuppa12/token-list/main/assets/mainnet/D9ACy7GitYb5p5AFszd5pMQyAabGXtDJaGBRUZsMW418/logo.png",
-  "tags": ["community"]
+  "tags": ["community"],
+  "extensions": {
+    "website": "https://terracoin.io",
+    "coingeckoId": "terracoin"
+  }
 }
