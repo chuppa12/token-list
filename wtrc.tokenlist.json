@@ -1,0 +1,30 @@
+{
+  "name": "Wrapped Terracoin Token List",
+  "timestamp": "2025-05-24T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {
+    "community": {
+      "name": "Community",
+      "description": "Community-created tokens"
+    }
+  },
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "D9ACy7GitYb5p5AFszd5pMQyAabGXtDJaGBRUZsMW418",
+      "symbol": "wTRC",
+      "name": "Wrapped Terracoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/chuppa12/token-list/main/assets/mainnet/D9ACy7GitYb5p5AFszd5pMQyAabGXtDJaGBRUZsMW418/logo.png",
+      "tags": ["community"],
+      "extensions": {
+        "website": "https://terracoin.io",
+        "coingeckoId": "terracoin"
+      }
+    }
+  ]
+}
