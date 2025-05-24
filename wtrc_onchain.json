@@ -1,0 +1,18 @@
+{
+  "name": "Wrapped Terracoin",
+  "symbol": "wTRC",
+  "description": "Wrapped Terracoin (wTRC) on Solana",
+  "image": "https://raw.githubusercontent.com/chuppa12/token-list/main/assets/mainnet/D9ACy7GitYb5p5AFszd5pMQyAabGXtDJaGBRUZsMW418/logo.png",
+  "seller_fee_basis_points": 0,
+  "external_url": "https://terracoin.io",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/chuppa12/token-list/main/assets/mainnet/D9ACy7GitYb5p5AFszd5pMQyAabGXtDJaGBRUZsMW418/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
